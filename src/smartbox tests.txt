@@ -1,0 +1,24 @@
+Calculator
+StatsCalculator
+
+MathMachine
+Stack
+Console
+
+StackMachine
+Stack
+Console
+push 7
+push 3
+push 5
+push 1
+add
+mul
+top
+sub
+top
+quit
+
+Casino
+Stack
+Console
